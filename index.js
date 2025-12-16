@@ -1,1 +1,1 @@
-console.log("Freelance Project");
+console.log("Project");
